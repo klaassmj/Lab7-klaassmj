@@ -1,0 +1,18 @@
+Matt Klaasse
+
+1) It allows automated testing of web pages and can be used to test compatibility with different web browsers. It is also integrated directly into the web browser making testing extremely easy.
+
+2) Selenium ties up your web browser while its tests are being run.
+
+3) <tr><td><a href="myCase.html">MyCase</a></td></tr>
+
+4)
+<tr>
+	<td>click</td>
+	<td>//a[@id=’myLink’]/</td>
+	<td></td>
+</tr>
+
+5) Adv: It can be displayed natively in the web browser
+
+ Dis: It is not very intuitive compared to other types of testing
